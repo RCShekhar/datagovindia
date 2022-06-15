@@ -4,7 +4,7 @@
 
 
 ### A Python API-wrapper for Government of India’s [Open Government Data OGD platform](https://data.gov.in/)
-**`datagovindia`** is an API wrapper for `142679` (and counting) APIs available at Government of India’s *[Open Government Data OGD platform](https://data.gov.in/ogpl_apis)*
+**`datagovindia`** is an API wrapper for `145744` (and counting) APIs available at Government of India’s *[Open Government Data OGD platform](https://data.gov.in/ogpl_apis)*
 
 -------
 
@@ -2616,7 +2616,7 @@ datagovin.get_data("dad7a738fd3b437dad31e1f844e9a575",num_results='all')
 >
 > ## **Meta-Data Updates** :
 >
->  > Last Updated: **June 3, 2022**, `14:06 IST`
+>  > Last Updated: **June 16, 2022**, `02:07 IST`
 >
->  > Number of active APIs: **142679**
+>  > Number of active APIs: **145744**
 >
